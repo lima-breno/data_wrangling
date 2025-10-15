@@ -1,2 +1,2 @@
 # data_wrangling
-Notebooks envolvendo o processo de transformação e estruturação de dados de um formato bruto para um formato desejado
+Este repositório reúne estudos e práticas voltados ao aprendizado de manipulação e tratamento de dados, abrangendo desde a importação e exploração inicial até processos de limpeza, transformação e preparação dos dados. Para isso, foram utilizadas principalmente as bibliotecas NumPy e Pandas, fundamentais para o trabalho com dados em Python.
